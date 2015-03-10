@@ -9,3 +9,7 @@
 .independent {
   background-color: #5bc0de;
 }
+
+.picture img {
+  width: 300px;
+}
